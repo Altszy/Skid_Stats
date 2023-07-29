@@ -12,5 +12,3 @@
 </p>
 
 ## Repositories
-
-[![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
