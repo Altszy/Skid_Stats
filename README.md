@@ -1,7 +1,7 @@
 ## About Me
 
-![SkidStats' Github Stats](https://github-readme-stats.vercel.app/api?username=SkieAdmin&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkieAdmin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![SkidStats' Github Stats](https://github-readme-stats.vercel.app/api?username=Altszy&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altszy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Known Languages
 
@@ -28,4 +28,4 @@
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkieAdmin&repo=Panda-Respiratory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altszy&repo=Panda-Respiratory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
