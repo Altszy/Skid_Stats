@@ -10,5 +10,3 @@
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp">
   </a>
 </p>
-
-## Repositories
