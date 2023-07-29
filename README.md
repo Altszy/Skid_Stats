@@ -13,4 +13,4 @@
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altszy&repo=Panda-Respiratory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
